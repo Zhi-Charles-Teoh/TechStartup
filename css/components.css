@@ -8,15 +8,33 @@
 
 .zn-features__heading {
     text-align: center;
+    padding: var(--space-sm);
 }
+
 
 .zn-testimonials__quote {
     padding: var(--space-sm);
     border-left: solid var(--color-secondary) 5px;
     font-size: var(--text-md);
-    margin: ;
+    width: 26rem;
+    margin-top: var(--space-xs);
+    font-weight: 400;
+}
+
+
+.zn-testimonials__heading {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: var(--space-sm);
 }
 
 .zn-testimonials__author {
+    font-size: var(--text-xs);
+    margin-top: var(--space-sm);
+}
 
+.zn-social-logo {
+    width: 2rem;
+    padding: var(--space-xs);
 }

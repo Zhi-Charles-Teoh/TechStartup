@@ -50,8 +50,15 @@ body {
 
 .zn-cta {
     grid-area: cta;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .zn-footer {
     grid-area: footer;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+
 }
