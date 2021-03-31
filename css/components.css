@@ -1,0 +1,22 @@
+.zn-btn-primary {
+    background-color: var(--color-secondary);
+    color: var(--white);
+    text-decoration: none;
+    padding: var(--space-md) var(--space-lg);
+    border-radius: 10%;
+}
+
+.zn-features__heading {
+    text-align: center;
+}
+
+.zn-testimonials__quote {
+    padding: var(--space-sm);
+    border-left: solid var(--color-secondary) 5px;
+    font-size: var(--text-md);
+    margin: ;
+}
+
+.zn-testimonials__author {
+
+}
